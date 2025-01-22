@@ -16,4 +16,11 @@ You can see a live demo of the project in the GIF below:
 ## **Key Features**  
 - All the main sections of the web page are replicated.  
 - **Responsive Design**: The page works seamlessly on both desktop and mobile devices.  
-- Professional layout of educational modules and promotional sections.  
+- Professional layout of educational modules and promotional sections.
+
+  ---
+
+## **Technologies**  
+- **HTML**: Used to structure the webpage.  
+- **CSS**: Used for styling and layout.  
+- **Responsive Design**: Ensured compatibility across devices.  
