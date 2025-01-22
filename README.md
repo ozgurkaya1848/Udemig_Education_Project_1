@@ -9,3 +9,11 @@ Today, I created a project where I cloned the Udemig Education software academy 
 You can see a live demo of the project in the GIF below:  
 
 ![Udemig Education Clone](path-to-your-gif.gif)  
+
+
+---
+
+## **Key Features**  
+- All the main sections of the web page are replicated.  
+- **Responsive Design**: The page works seamlessly on both desktop and mobile devices.  
+- Professional layout of educational modules and promotional sections.  
