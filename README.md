@@ -8,8 +8,9 @@ Today, I created a project where I cloned the Udemig Education software academy 
 ## **Preview**  
 You can see a live demo of the project in the GIF below:  
 
- 
-![udemig_education_1](https://github.com/user-attachments/assets/72f3a2b8-4d47-440c-9db1-2816ce24baa7)
+ ![udemig_education_1](https://github.com/user-attachments/assets/68eeca4d-6933-42c8-b3c8-0a564bcda5d0)
+
+
 
 
 ---
